@@ -60,7 +60,7 @@ public class Main {
 
     public static void changeValue10(Person person) {
         person.setName("Ilya");
-        person.setSurname("Lagutenko");
+         person.setSurname("Lagutenko");
 
     }
 }
